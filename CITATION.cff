@@ -1,0 +1,27 @@
+# YAML 1.2
+---
+abstract: "A tool for quick fuzzy matching of spectral data and other Python objects. A tool for quick fuzzy matching of spectral data and other Python objects. A tool for quick fuzzy matching of spectral data and other Python objects. A tool for quick fuzzy matching of spectral data and other Python objects. "
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Diblen
+    given-names: Faruk
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Spaaks
+    given-names: "Jurriaan H."
+    name-particle: "von der"
+    name-suffix: "Jr. IV"
+    orcid: "https://orcid.org/0000-0002-7064-4069"
+cff-version: "1.1.0"
+date-released: 2020-05-26
+keywords: 
+  - "mass spectrometry"
+  - "fuzzy search"
+  - "fuzzy matching"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/matchms/matchms"
+title: matchms
+version: "0.3.2"
+...
